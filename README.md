@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @9914-VivianLudrick
-- 👀 I’m interested in Svelte Kit, Tailwind, Typescript, Rust, GO,  
+- 👀 I’m interested in Svelte Kit, Tailwind, Typescript.  
 - 🌱 I’m currently learning Tailwind and Typescript
 - 💞️ I’m looking to collaborate on any project that looks interesting and gives me a chance to grow.
 
